@@ -8,9 +8,14 @@ Selamat datang di dokumentasi Asisten Percetakan!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Daftar Isi:
 
+   /_intro/intro
    /_intro/langkah-pertama
+
+   /_apps/master-paper-types
+   /_apps/master-machines
+   /_apps/master-paper-size
+   /_apps/menu-transaction
 
 
    
