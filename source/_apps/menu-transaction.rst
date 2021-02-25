@@ -86,21 +86,33 @@ Detail Transaction
 ^^^^^^^^^^^^^^^^^^
 Detail transaction ini menampilkan semua item - item bahan dan cetak suatu transaksi. Anda dapat menambahkan mengubah item, menambahkan item, menambhakan finishing atau melihat desain potong pada item tersebut.
 
+Detail Item Transaction
+^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: /img/detail_transaction.png
 
-1. Digunakan untuk menambahkan item, Tambah bahan atau Tambah bahan + cetak.
+1. Digunakan untuk menambahkan item, Contoh: Tambah bahan atau Tambah bahan + cetak.
 2. Digunakan untuk menambahkan finishing pada item. Contoh: Laminating, Spot UV, Pond, Pisau Pond, Lipat dan Susun Kertas.
 3. Digunakan untuk menampilkan hasil desain potong.
 4. Digunakan untuk menampilkan detail item. Contoh: Bahan, Ongkos Cetak, Plat, dll.
 5. Digunakan untuk menampilkan, mengubah atau menghapus item tersebut.
 
 
-Detail Item Transaction
-^^^^^^^^^^^^^^^^^^^^^^^
 Biaya Lain - lain
 ^^^^^^^^^^^^^^^^^
+
+.. image:: /img/biaya_lain-lain.png
+
+1. Digunakan untuk menambahkan item, Contoh: Biaya Antar, Biaya Lem, Jilid / Bending, Lain - Lain.
+2. Digunakan untuk menampilkan, mengubah atau menghapus item tersebut.
+
 Harga Penawaran
 ^^^^^^^^^^^^^^^
-Harga Pokok
-^^^^^^^^^^^
+
+.. image:: /img/detail_transaction.png
+
+1. Digunakan untuk melihat harga penawaran yang disediakan oleh sistem, sesuai persen margin yang didapat.
+2. Merupakan harga pokok per Quantity (Harga total dibagi dengan Quantity)
+3. Merupakan Harga pokok dari total Quantity.
+
 
