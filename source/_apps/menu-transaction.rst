@@ -12,7 +12,7 @@ Klik tombol Tambahkan pada kanan atas tabel, kemudian muncul form ``Create Trans
 - ``Quantity`` dalam angka.
 - ``Ppn`` dalam angka tidak diikuti tanda "%".
 
-Jika sudah selesai semua klik tombol `Create`, maka akan muncul rangkuman transaksi kosong. Klik tombol 3 di box Detail Transaction, akan muncul 2 menu yaitu ``Tambah Bahan + Cetak`` dan ``Tambah Bahan``. 
+Jika sudah selesai semua klik tombol `Create`, maka akan muncul rangkuman transaksi kosong. Klik tombol plus (+) di box Detail Transaction, akan muncul 2 menu yaitu ``Tambah Bahan + Cetak`` dan ``Tambah Bahan``. 
 
 .. image:: /img/menu_tambah.png
 
@@ -75,8 +75,32 @@ Tambah Bahan digunakan untuk menambah perhitungan transaksi bahan tanpa ada ceta
 Tambah Biaya Lain - Lain
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Biaya lain - lain ini digunakan untuk perhitungan biaya diluar cetak dan bahan, contoh : Biaya Antar, Biaya Lem, Bending, Jilid, dll. pilih salah satu biaya yang akan anda tambahkan dalam pembuatan transaksi.
+Biaya lain - lain ini digunakan untuk perhitungan biaya diluar cetak dan bahan, contoh : Biaya Antar, Biaya Lem, Bending, Jilid, dll. pilih salah satu biaya yang akan anda tambahkan dalam pembuatan transaksi. Pilih salah satu biaya lain - lain yang akan Anda tambahkan.
 
-Detail Transction
+Detail Transaction
 ------------------
+
+Halaman detail transaction digunakan untuk menampilkan semua informasi terkait transaksi yang dilakukan, mulai dari item - item transaction, harga pokok, harga total dan harga penawaran. berikut penjelasan masing - masing.
+
+Detail Transaction
+^^^^^^^^^^^^^^^^^^
+Detail transaction ini menampilkan semua item - item bahan dan cetak suatu transaksi. Anda dapat menambahkan mengubah item, menambahkan item, menambhakan finishing atau melihat desain potong pada item tersebut.
+
+.. image:: /img/detail_transaction.png
+
+1. Digunakan untuk menambahkan item, Tambah bahan atau Tambah bahan + cetak.
+2. Digunakan untuk menambahkan finishing pada item. Contoh: Laminating, Spot UV, Pond, Pisau Pond, Lipat dan Susun Kertas.
+3. Digunakan untuk menampilkan hasil desain potong.
+4. Digunakan untuk menampilkan detail item. Contoh: Bahan, Ongkos Cetak, Plat, dll.
+5. Digunakan untuk menampilkan, mengubah atau menghapus item tersebut.
+
+
+Detail Item Transaction
+^^^^^^^^^^^^^^^^^^^^^^^
+Biaya Lain - lain
+^^^^^^^^^^^^^^^^^
+Harga Penawaran
+^^^^^^^^^^^^^^^
+Harga Pokok
+^^^^^^^^^^^
 
